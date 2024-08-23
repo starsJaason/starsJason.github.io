@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>个人介绍</title>
+    <title>施昱成的个人介绍网站</title>
     <link rel="stylesheet" href="style.css">
     <style>
         body {
@@ -61,10 +61,6 @@
             background-color: #fff;
         }
 
-        #projects {
-            background-color: #f8f8f8;
-        }
-
         #contact {
             background-color: #fff;
         }
@@ -78,20 +74,6 @@
             max-width: 800px;
             margin: 0 auto;
             line-height: 1.6;
-        }
-
-        .projects-grid {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
-        }
-
-        .project-item {
-            background-color: #eee;
-            padding: 20px;
-            width: 250px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
 
         footer {
@@ -119,18 +101,16 @@
 <section id="about">
     <h2>关于我</h2>
     <div class="content">
-        <p>我是施昱成，一个热爱地理和历史的菜鸟。拥有14年的经验，专注于折腾，例如研究电脑软硬件, iPhone越狱。我喜欢解决复杂的问题并开发有用的工具。</p>
+        <p>我是施昱成，一个抽象区热爱折腾的创作者。拥有14年的经验，专注于抽象和折腾领域。我喜欢解决复杂的问题并开发有用的工具。</p>
     </div>
 </section>
-
-
 
 <section id="contact">
     <h2>联系我</h2>
     <div class="content">
         <p>你可以通过以下方式联系我：</p>
-        <p>Email: shiyucheng1022@outloot.com</p>
-        <p>Phone: 13136599122</p>
+        <p>Email: shiyucheng1022@outlook.com</p>
+        <p>Phone: 13135466122</p>
     </div>
 </section>
 
@@ -140,3 +120,4 @@
 
 </body>
 </html>
+
